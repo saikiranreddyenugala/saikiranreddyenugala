@@ -3,15 +3,14 @@
 ## Hi welcome to my page 
 
 ## Past
-
-I am from warangal, India. 
+I am from warangal, India. I have been undergraduated from Kakatiya institute of technology and sciences in Electronics and Communication Engineering branch . 
 
 ## Present
-I am persuing my masters in applied computer science at Northwest Missouri State University
+I am pursuing my masters in applied computer science at Northwest Missouri State University
 
 ## Future
 
-I would like to become a software devloper
+I would like to become a software developer.
 
 ## Links
 [LinkdIn_profile](https://www.linkedin.com/in/sai-kiran-reddy-enugala-a06624138/)
